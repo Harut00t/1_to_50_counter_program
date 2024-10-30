@@ -1,5 +1,3 @@
-
-
 """If this did not work, then I will try to do it as a variable."""
 one_to_ten = []
 eleven_to_twenty = []
